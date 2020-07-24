@@ -1,5 +1,7 @@
 # Hello World
 
+[![CircleCI](https://circleci.com/gh/nbialostosky/status-badge/tree/thisbranchdoesntexist.svg?style=shield)](https://app.circleci.com/pipelines/github/nbialostosky/status-badge)
+
 **Description:**
 
 This is a very basic CircleCI config that will spin up a Docker container and echo "Hello World".
