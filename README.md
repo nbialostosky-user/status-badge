@@ -1,4 +1,5 @@
 # Hello World
+[![CircleCI](https://circleci.com/gh/nbialostosky/status-badge/tree/status.svg?style=shield)](https://app.circleci.com/pipelines/github/nbialostosky/status-badge)
 
 **Description:**
 
